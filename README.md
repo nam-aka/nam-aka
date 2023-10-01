@@ -1,3 +1,5 @@
+<h1 align="center">Hoàng Sa, Trường Sa là của Việt Nam | Hoang Sa, Truong Sa belong to Vietnam ![image](https://github.com/NamBytesDotNET/NamBytesDotNET/assets/34431305/8a105d40-b919-49b7-8100-62f1a4121542)
+</h1>
 <h1 align="center">Hi 👋, I'm Nam</h1>
 <h3 align="center">A passionate .NET developer from Viet Nam</h3>
 
@@ -10,8 +12,6 @@
 - 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **ducnam0310@gmail.com**
-
-- ⚡ Fun fact **Hoàng Sa, Trường Sa là của Việt Nam | Hoang Sa, Truong Sa belong to Vietnam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
