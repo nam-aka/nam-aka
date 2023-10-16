@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 📫 How to reach me **ducnam0310@gmail.com**
+- 📫 How to reach me **ducnam0310@gmail.com** **https://www.bytesdot.net/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,10 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nambytesdotnet&show_icons=true&locale=en" alt="nambytesdotnet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nambytesdotnet&" alt="nambytesdotnet" /></p>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **https://www.bytesdot.net/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
