@@ -1,4 +1,3 @@
-<h1 align="center">Hoàng Sa, Trường Sa là của Việt Nam | Hoang Sa, Truong Sa belong to Vietnam</h1>
 <h1 align="center">Hi 👋, I'm Nam</h1>
 <h3 align="center">A passionate .NET developer from Viet Nam</h3>
 
