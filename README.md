@@ -20,7 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nambytesdotnet&show_icons=true&locale=en&layout=compact" alt="nambytesdotnet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nambytesdotnet&show_icons=true&locale=en" alt="nambytesdotnet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nambytesdotnet&" alt="nambytesdotnet" /></p>
 
