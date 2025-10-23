@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 📫 How to reach me **ducnam0310@gmail.com** **https://www.bytesdot.net/**
+- 📫 How to reach me **ducnam0310@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
